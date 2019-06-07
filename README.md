@@ -6,11 +6,12 @@
 
 ## Purpos 2, training using pytorch
 base network is https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html#sphx-glr-beginner-blitz-cifar10-tutorial-py
-+add a lot of cnn layers
-+add Batchnorm layers
-+add zeropadding
-+add Dropout
-+add optomizer scheduler
-+add data augmentation
-+add usiing GPU(colab)
-+add loss logs and plot them by matplotlib
+
+- +add a lot of cnn layers
+- +add Batchnorm layers
+- +add zeropadding
+- +add Dropout
+- +add optomizer scheduler
+- +add data augmentation
+- +add usiing GPU(colab)
+- +add loss logs and plot them by matplotlib
