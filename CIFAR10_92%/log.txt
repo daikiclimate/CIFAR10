@@ -1,0 +1,701 @@
+start
+---------------------------------
+epoch :1  train loss :1.209
+epoch :1  test  loss :1.163
+Accuracy of the network on the 10000 test images: 62 %
+6248 / 10000
+time: 27 [sec] 
+---------------------------------
+---------------------------------
+epoch :2  train loss :0.8912
+epoch :2  test  loss :0.8299
+Accuracy of the network on the 10000 test images: 73 %
+7395 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :3  train loss :0.6806
+epoch :3  test  loss :0.5731
+Accuracy of the network on the 10000 test images: 77 %
+7793 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :4  train loss :0.5675
+epoch :4  test  loss :0.5269
+Accuracy of the network on the 10000 test images: 79 %
+7920 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :5  train loss :0.5408
+epoch :5  test  loss :0.5925
+Accuracy of the network on the 10000 test images: 81 %
+8119 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :6  train loss :0.3795
+epoch :6  test  loss :0.7141
+Accuracy of the network on the 10000 test images: 80 %
+8013 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :7  train loss :0.4648
+epoch :7  test  loss :0.7109
+Accuracy of the network on the 10000 test images: 82 %
+8288 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :8  train loss :0.3297
+epoch :8  test  loss :0.527
+Accuracy of the network on the 10000 test images: 85 %
+8561 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :9  train loss :0.2856
+epoch :9  test  loss :0.7413
+Accuracy of the network on the 10000 test images: 85 %
+8520 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :10  train loss :0.2536
+epoch :10  test  loss :0.527
+Accuracy of the network on the 10000 test images: 85 %
+8557 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :11  train loss :0.3841
+epoch :11  test  loss :0.505
+Accuracy of the network on the 10000 test images: 86 %
+8606 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :12  train loss :0.2951
+epoch :12  test  loss :0.4212
+Accuracy of the network on the 10000 test images: 86 %
+8672 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :13  train loss :0.3472
+epoch :13  test  loss :0.9324
+Accuracy of the network on the 10000 test images: 86 %
+8616 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :14  train loss :0.2273
+epoch :14  test  loss :0.3796
+Accuracy of the network on the 10000 test images: 87 %
+8717 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :15  train loss :0.3543
+epoch :15  test  loss :0.5133
+Accuracy of the network on the 10000 test images: 86 %
+8684 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :16  train loss :0.1295
+epoch :16  test  loss :0.6957
+Accuracy of the network on the 10000 test images: 89 %
+8949 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :17  train loss :0.1665
+epoch :17  test  loss :0.7397
+Accuracy of the network on the 10000 test images: 89 %
+8956 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :18  train loss :0.1818
+epoch :18  test  loss :0.4779
+Accuracy of the network on the 10000 test images: 88 %
+8889 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :19  train loss :0.1164
+epoch :19  test  loss :0.5295
+Accuracy of the network on the 10000 test images: 88 %
+8873 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :20  train loss :0.2006
+epoch :20  test  loss :0.4477
+Accuracy of the network on the 10000 test images: 89 %
+8913 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :21  train loss :0.1132
+epoch :21  test  loss :0.6388
+Accuracy of the network on the 10000 test images: 89 %
+8912 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :22  train loss :0.1532
+epoch :22  test  loss :0.4798
+Accuracy of the network on the 10000 test images: 89 %
+8925 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :23  train loss :0.2227
+epoch :23  test  loss :0.5807
+Accuracy of the network on the 10000 test images: 89 %
+8916 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :24  train loss :0.2023
+epoch :24  test  loss :0.6931
+Accuracy of the network on the 10000 test images: 90 %
+9086 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :25  train loss :0.03338
+epoch :25  test  loss :0.622
+Accuracy of the network on the 10000 test images: 91 %
+9103 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :26  train loss :0.08028
+epoch :26  test  loss :0.4699
+Accuracy of the network on the 10000 test images: 90 %
+9094 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :27  train loss :0.0621
+epoch :27  test  loss :0.4702
+Accuracy of the network on the 10000 test images: 90 %
+9032 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :28  train loss :0.0611
+epoch :28  test  loss :0.7061
+Accuracy of the network on the 10000 test images: 90 %
+9095 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :29  train loss :0.08627
+epoch :29  test  loss :0.5279
+Accuracy of the network on the 10000 test images: 91 %
+9108 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :30  train loss :0.1872
+epoch :30  test  loss :0.4982
+Accuracy of the network on the 10000 test images: 90 %
+9064 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :31  train loss :0.0953
+epoch :31  test  loss :0.4017
+Accuracy of the network on the 10000 test images: 90 %
+9065 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :32  train loss :0.01485
+epoch :32  test  loss :0.5131
+Accuracy of the network on the 10000 test images: 91 %
+9155 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :33  train loss :0.0413
+epoch :33  test  loss :0.6947
+Accuracy of the network on the 10000 test images: 91 %
+9178 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :34  train loss :0.03469
+epoch :34  test  loss :0.4411
+Accuracy of the network on the 10000 test images: 91 %
+9172 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :35  train loss :0.04463
+epoch :35  test  loss :0.5437
+Accuracy of the network on the 10000 test images: 91 %
+9156 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :36  train loss :0.02642
+epoch :36  test  loss :0.3796
+Accuracy of the network on the 10000 test images: 91 %
+9159 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :37  train loss :0.01511
+epoch :37  test  loss :0.4413
+Accuracy of the network on the 10000 test images: 91 %
+9182 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :38  train loss :0.0185
+epoch :38  test  loss :0.4474
+Accuracy of the network on the 10000 test images: 91 %
+9158 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :39  train loss :0.029
+epoch :39  test  loss :0.4164
+Accuracy of the network on the 10000 test images: 91 %
+9150 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :40  train loss :0.0333
+epoch :40  test  loss :0.5282
+Accuracy of the network on the 10000 test images: 91 %
+9159 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :41  train loss :0.04165
+epoch :41  test  loss :0.5867
+Accuracy of the network on the 10000 test images: 91 %
+9181 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :42  train loss :0.01716
+epoch :42  test  loss :0.5526
+Accuracy of the network on the 10000 test images: 91 %
+9165 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :43  train loss :0.01245
+epoch :43  test  loss :0.5816
+Accuracy of the network on the 10000 test images: 91 %
+9177 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :44  train loss :0.01641
+epoch :44  test  loss :0.5726
+Accuracy of the network on the 10000 test images: 91 %
+9173 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :45  train loss :0.01846
+epoch :45  test  loss :0.6665
+Accuracy of the network on the 10000 test images: 91 %
+9181 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :46  train loss :0.02202
+epoch :46  test  loss :0.6302
+Accuracy of the network on the 10000 test images: 91 %
+9167 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :47  train loss :0.02065
+epoch :47  test  loss :0.5639
+Accuracy of the network on the 10000 test images: 91 %
+9158 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :48  train loss :0.0304
+epoch :48  test  loss :0.4009
+Accuracy of the network on the 10000 test images: 91 %
+9171 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :49  train loss :0.02181
+epoch :49  test  loss :0.4015
+Accuracy of the network on the 10000 test images: 91 %
+9182 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :50  train loss :0.02005
+epoch :50  test  loss :0.5469
+Accuracy of the network on the 10000 test images: 91 %
+9180 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :51  train loss :0.02124
+epoch :51  test  loss :0.5378
+Accuracy of the network on the 10000 test images: 91 %
+9188 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :52  train loss :0.02159
+epoch :52  test  loss :0.4608
+Accuracy of the network on the 10000 test images: 91 %
+9176 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :53  train loss :0.02576
+epoch :53  test  loss :0.4874
+Accuracy of the network on the 10000 test images: 91 %
+9188 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :54  train loss :0.02181
+epoch :54  test  loss :0.509
+Accuracy of the network on the 10000 test images: 91 %
+9162 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :55  train loss :0.0269
+epoch :55  test  loss :0.5029
+Accuracy of the network on the 10000 test images: 91 %
+9183 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :56  train loss :0.02803
+epoch :56  test  loss :0.573
+Accuracy of the network on the 10000 test images: 91 %
+9168 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :57  train loss :0.02924
+epoch :57  test  loss :0.4177
+Accuracy of the network on the 10000 test images: 91 %
+9182 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :58  train loss :0.02077
+epoch :58  test  loss :0.5905
+Accuracy of the network on the 10000 test images: 91 %
+9172 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :59  train loss :0.01769
+epoch :59  test  loss :0.3874
+Accuracy of the network on the 10000 test images: 91 %
+9187 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :60  train loss :0.03069
+epoch :60  test  loss :0.6057
+Accuracy of the network on the 10000 test images: 91 %
+9188 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :61  train loss :0.05268
+epoch :61  test  loss :0.4535
+Accuracy of the network on the 10000 test images: 91 %
+9179 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :62  train loss :0.03191
+epoch :62  test  loss :0.5922
+Accuracy of the network on the 10000 test images: 91 %
+9185 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :63  train loss :0.02515
+epoch :63  test  loss :0.4303
+Accuracy of the network on the 10000 test images: 91 %
+9185 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :64  train loss :0.02846
+epoch :64  test  loss :0.59
+Accuracy of the network on the 10000 test images: 91 %
+9190 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :65  train loss :0.01739
+epoch :65  test  loss :0.4078
+Accuracy of the network on the 10000 test images: 91 %
+9172 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :66  train loss :0.01846
+epoch :66  test  loss :0.5776
+Accuracy of the network on the 10000 test images: 91 %
+9182 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :67  train loss :0.01754
+epoch :67  test  loss :0.5398
+Accuracy of the network on the 10000 test images: 91 %
+9178 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :68  train loss :0.01317
+epoch :68  test  loss :0.63
+Accuracy of the network on the 10000 test images: 92 %
+9204 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :69  train loss :0.01715
+epoch :69  test  loss :0.4563
+Accuracy of the network on the 10000 test images: 91 %
+9172 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :70  train loss :0.01313
+epoch :70  test  loss :0.4061
+Accuracy of the network on the 10000 test images: 92 %
+9204 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :71  train loss :0.01733
+epoch :71  test  loss :0.5261
+Accuracy of the network on the 10000 test images: 91 %
+9187 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :72  train loss :0.01687
+epoch :72  test  loss :0.4322
+Accuracy of the network on the 10000 test images: 91 %
+9199 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :73  train loss :0.02661
+epoch :73  test  loss :0.517
+Accuracy of the network on the 10000 test images: 91 %
+9183 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :74  train loss :0.01753
+epoch :74  test  loss :0.4194
+Accuracy of the network on the 10000 test images: 91 %
+9158 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :75  train loss :0.01742
+epoch :75  test  loss :0.4102
+Accuracy of the network on the 10000 test images: 91 %
+9177 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :76  train loss :0.02776
+epoch :76  test  loss :0.5793
+Accuracy of the network on the 10000 test images: 91 %
+9179 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :77  train loss :0.02735
+epoch :77  test  loss :0.4293
+Accuracy of the network on the 10000 test images: 91 %
+9196 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :78  train loss :0.0134
+epoch :78  test  loss :0.569
+Accuracy of the network on the 10000 test images: 91 %
+9172 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :79  train loss :0.01889
+epoch :79  test  loss :0.5772
+Accuracy of the network on the 10000 test images: 91 %
+9192 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :80  train loss :0.02263
+epoch :80  test  loss :0.569
+Accuracy of the network on the 10000 test images: 91 %
+9190 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :81  train loss :0.02152
+epoch :81  test  loss :0.4696
+Accuracy of the network on the 10000 test images: 91 %
+9173 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :82  train loss :0.02358
+epoch :82  test  loss :0.6228
+Accuracy of the network on the 10000 test images: 91 %
+9179 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :83  train loss :0.02213
+epoch :83  test  loss :0.5798
+Accuracy of the network on the 10000 test images: 91 %
+9192 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :84  train loss :0.01721
+epoch :84  test  loss :0.5454
+Accuracy of the network on the 10000 test images: 91 %
+9196 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :85  train loss :0.0194
+epoch :85  test  loss :0.5202
+Accuracy of the network on the 10000 test images: 91 %
+9185 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :86  train loss :0.02564
+epoch :86  test  loss :0.4182
+Accuracy of the network on the 10000 test images: 91 %
+9183 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :87  train loss :0.02319
+epoch :87  test  loss :0.4901
+Accuracy of the network on the 10000 test images: 91 %
+9181 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :88  train loss :0.02214
+epoch :88  test  loss :0.589
+Accuracy of the network on the 10000 test images: 92 %
+9225 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :89  train loss :0.01568
+epoch :89  test  loss :0.5463
+Accuracy of the network on the 10000 test images: 91 %
+9195 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :90  train loss :0.01691
+epoch :90  test  loss :0.6016
+Accuracy of the network on the 10000 test images: 91 %
+9178 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :91  train loss :0.01733
+epoch :91  test  loss :0.422
+Accuracy of the network on the 10000 test images: 91 %
+9165 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :92  train loss :0.02216
+epoch :92  test  loss :0.4041
+Accuracy of the network on the 10000 test images: 91 %
+9181 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :93  train loss :0.01667
+epoch :93  test  loss :0.5155
+Accuracy of the network on the 10000 test images: 91 %
+9182 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :94  train loss :0.01546
+epoch :94  test  loss :0.4379
+Accuracy of the network on the 10000 test images: 91 %
+9197 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :95  train loss :0.01582
+epoch :95  test  loss :0.5684
+Accuracy of the network on the 10000 test images: 91 %
+9189 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :96  train loss :0.01703
+epoch :96  test  loss :0.5482
+Accuracy of the network on the 10000 test images: 92 %
+9200 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :97  train loss :0.02093
+epoch :97  test  loss :0.4129
+Accuracy of the network on the 10000 test images: 91 %
+9195 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :98  train loss :0.01666
+epoch :98  test  loss :0.5595
+Accuracy of the network on the 10000 test images: 91 %
+9190 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :99  train loss :0.01951
+epoch :99  test  loss :0.4337
+Accuracy of the network on the 10000 test images: 91 %
+9167 / 10000
+time: 26 [sec] 
+---------------------------------
+---------------------------------
+epoch :100  train loss :0.02588
+epoch :100  test  loss :0.4618
+Accuracy of the network on the 10000 test images: 91 %
+9189 / 10000
+time: 26 [sec] 
+---------------------------------
